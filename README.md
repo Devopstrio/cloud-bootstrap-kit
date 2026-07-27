@@ -8,7 +8,7 @@
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square)](https://devopstrio.co.uk)
 [![Bash Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square)](https://gnu.org/software/bash)
-[![Terraform Version](https://img.shields.io/badge/Terraform-v1.5%2B-623CE4?style=flat-square)](https://terraform.io)
+[![Terraform Version](https://img.shields.io/badge/Terraform-v1.8.5-623CE4?style=flat-square)](https://terraform.io)
 
 </div>
 
@@ -20,7 +20,7 @@ The **Cloud Bootstrap Kit** provides production-grade automation scripts and Ter
 
 It automates initial Terraform state storage bucket creation, DynamoDB state locking tables, Azure Resource Groups, and GCP Project API enablement across enterprise accounts.
 
-![Multi-Cloud Bootstrap Kit Architecture](https://raw.githubusercontent.com/Devopstrio/cloud-bootstrap-kit/main/docs/images/architecture_diagram.jpg)
+![Multi-Cloud Bootstrap Kit Architecture](./docs/images/architecture_diagram.jpg)
 
 ---
 

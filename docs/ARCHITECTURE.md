@@ -2,7 +2,7 @@
 
 The **Cloud Bootstrap Kit** provides automated CLI shell scripts and Terraform state initialization templates for bootstrapping AWS, Azure, and GCP enterprise accounts.
 
-![Multi-Cloud Bootstrap Kit Architecture](https://raw.githubusercontent.com/Devopstrio/cloud-bootstrap-kit/main/docs/images/architecture_diagram.jpg)
+![Multi-Cloud Bootstrap Kit Architecture](./images/architecture_diagram.jpg)
 
 ## Component Sequence Diagram
 
