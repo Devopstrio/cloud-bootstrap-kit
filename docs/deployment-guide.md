@@ -2,6 +2,11 @@
 
 This guide outlines installation, shell execution, Terraform state initialization, and test verification.
 
+* ⬅️ **Back to Main Overview:** [README.md](../README.md)
+* 📖 **Architecture Specification:** [ARCHITECTURE.md](ARCHITECTURE.md)
+
+---
+
 ## 1. Installation
 
 ```bash

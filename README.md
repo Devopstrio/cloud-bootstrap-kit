@@ -20,7 +20,16 @@ The **Cloud Bootstrap Kit** provides production-grade automation scripts and Ter
 
 It automates initial Terraform state storage bucket creation, DynamoDB state locking tables, Azure Resource Groups, and GCP Project API enablement across enterprise accounts.
 
-![Multi-Cloud Bootstrap Kit Architecture](./docs/images/architecture_diagram.jpg)
+<p align="center">
+  <img src="docs/images/architecture_diagram.jpg" alt="Multi-Cloud Bootstrap Kit Architecture" width="100%" />
+</p>
+
+---
+
+## 📚 Documentation & Architecture Guides
+
+* 📖 **Architecture Specification:** [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
+* 📘 **Deployment & Integration Guide:** [docs/deployment-guide.md](docs/deployment-guide.md)
 
 ---
 
